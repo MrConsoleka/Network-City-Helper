@@ -1,0 +1,14 @@
+INFO | 2024-12-01 00:05:03,725 | setup_bot.py:32 | Bot start
+INFO | 2024-12-01 00:05:04,575 | base.py:507 | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO | 2024-12-01 00:05:04,579 | base.py:1090 | Added job "partial" to job store "default"
+INFO | 2024-12-01 00:05:04,579 | base.py:214 | Scheduler started
+INFO | 2024-12-01 00:05:04,580 | dispatcher.py:527 | Start polling
+INFO | 2024-12-01 00:05:04,653 | dispatcher.py:341 | Run polling for bot @python_aiogram_template_bot id=7906461130 - 'Template bot'
+INFO | 2024-12-01 00:05:11,645 | dispatcher.py:172 | Update id=458183882 is handled. Duration 625 ms by bot id=7906461130
+INFO | 2024-12-01 00:05:16,896 | dispatcher.py:172 | Update id=458183883 is handled. Duration 437 ms by bot id=7906461130
+INFO | 2024-12-01 00:05:19,274 | dispatcher.py:172 | Update id=458183884 is not handled. Duration 343 ms by bot id=7906461130
+INFO | 2024-12-01 00:05:20,795 | dispatcher.py:172 | Update id=458183885 is handled. Duration 421 ms by bot id=7906461130
+INFO | 2024-12-01 00:05:22,778 | dispatcher.py:172 | Update id=458183886 is handled. Duration 390 ms by bot id=7906461130
+INFO | 2024-12-01 00:05:24,829 | dispatcher.py:554 | Polling stopped
+INFO | 2024-12-01 00:05:24,830 | setup_bot.py:42 | Bot stop
+INFO | 2024-12-01 00:05:25,073 | dispatcher.py:359 | Polling stopped for bot @python_aiogram_template_bot id=7906461130 - 'Template bot'
