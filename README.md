@@ -119,7 +119,7 @@ python bot.py
 ⠀
 
 * [Aiogram-3](https://github.com/aiogram/aiogram) - полностью асинхронный фреймворк для Telegram Bot API
-* [AsyncPG](https://pypi.org/project/aiogram/) - библиотека Python для работы с базами данных PostgreSQL.
+* [AsyncPG](https://github.com/MagicStack/asyncpg) - библиотека Python для работы с базами данных PostgreSQL.
 * [Schedule](https://pypi.org/project/schedule/) - Планировщик заданий.
 * [Cryptography](https://pypi.org/project/cryptography/) - Библиотека для обеспечения безопасности и конфиденциальности данных (шифровка данных).
 * [NetSchoolAPI-fork](https://github.com/MrEnderman-YT/netschoolapi) - мой форк асинхронный клиент для «Сетевого города»
